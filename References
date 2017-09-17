@@ -1,0 +1,17 @@
+References:
+
+1. FUSE References : https://github.com/libfuse/libfuse
+			https://en.wikipedia.org/wiki/Filesystem_in_Userspace
+			https://courses.ncsu.edu/csc501/lec/002/fuse.html
+			https://courses.ncsu.edu/csc501/lec/002/wrap/assignments/postmark-1.51.c
+2. FUSE struct : 	http://www.linux.org/threads/fuse.6211/
+3. FUSE and Other FS info :	http://www.linux.org/threads/filesystem-article-index.6028/
+4. Other Univ ref : https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201109/homework/fuse/fusexmp.c
+5. Stack Overflow pages
+6. Man pages
+
+
+Other Students:
+1. Amit Barve
+2. Shaurya Garg
+3. Siddhart
